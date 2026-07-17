@@ -8,7 +8,7 @@ Pintu Roy
 
 ## Live Demo - Server / Back-End
 
-🔗 **[https://appify-lab-task-server.vercel.app](https://appify-lab-task-server.vercel.app)**
+🔗 **[https://mini-social-meida-server-techzu.vercel.app](https://mini-social-meida-server-techzu.vercel.app)**
 
 ## Tech Stack
 
