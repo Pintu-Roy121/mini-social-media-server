@@ -6,10 +6,6 @@ A REST API for a social feed-style application, built with **Node.js**, **Expres
 
 Pintu Roy
 
-## Live Demo - Front-End
-
-🔗 **[https://appifylab-task-frontend-bice.vercel.app](https://appifylab-task-frontend-bice.vercel.app)**
-
 ## Live Demo - Server / Back-End
 
 🔗 **[https://appify-lab-task-server.vercel.app](https://appify-lab-task-server.vercel.app)**
